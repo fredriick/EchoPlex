@@ -1,4 +1,5 @@
-# EchoPlex is an AI-powered, immersive audio-visual experience that generates a dynamic, 3D soundscape based on users' memories and emotions. It's a sonic time capsule that echoes the past, present, and future.
+# EchoPlex is an 
+AI-powered, immersive audio-visual experience that generates a dynamic, 3D soundscape based on users' memories and emotions. It's a sonic time capsule that echoes the past, present, and future.
 
 ## Features:
 
