@@ -1,3 +1,11 @@
+# EchoPlex is an AI-powered, immersive audio-visual experience that generates a dynamic, 3D soundscape based on users' memories and emotions. It's a sonic time capsule that echoes the past, present, and future.
+
+## Features:
+
+1. Memory Upload: Users record and upload personal memories (audio or video) and emotions associated with them.
+2. AI-Generated Soundscapes: EchoPlex's AI engine analyzes the uploaded memories and generates a unique, immersive 3D soundscape, incorporating music, sound effects, and voiceovers.
+3. Emotional Resonance: The app uses emotional intelligence to adapt the soundscape to the user's emotional state, creating a personalized experience.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
