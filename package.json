@@ -15,7 +15,8 @@
     "react-native": "0.74.1",
     "react-native-video": "^6.0.0",
     "react-native-voice": "^0.3.0",
-    "react-native-voice-recorder": "^1.0.2"
+    "react-native-voice-recorder": "^1.0.2",
+    "three": "^0.164.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
