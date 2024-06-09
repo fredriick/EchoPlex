@@ -8,7 +8,6 @@ EchoPlex is an AI-powered, immersive audio-visual experience that generates a dy
 3. Emotional Resonance: The app uses emotional intelligence to adapt the soundscape to the user's emotional state, creating a personalized experience.
 
 
-# Getting Started
 ## Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
